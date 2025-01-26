@@ -12,5 +12,4 @@ the board 8x8, 59 chips (less d.f.) of 7 types, 5 rounds x 12 steps in a round:
 MC 1587.414  
 HM 248.3788
 
-So it's a way to quantify how close AI's thinking is to human thinking.
-
+So it's a way to quantify how close AI's thinking is to human thinking, i.e. how close is an AI to AGI at any given time. 
