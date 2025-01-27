@@ -1,6 +1,6 @@
 
-If we take RIT (https://github.com/ogrnv/random-intelligence-tests) sample tasks of different complexity and compare human results
-with results of a Monte Carlo (MC) algorithm (https://github.com/ogrnv/Creating-sample-means-for-measurement-standards-of-intelligence), then we will see that the human intelligence that AGI is trying to recreate achieves better results when there are more degrees of freedom (d.f.) on the board.
+Let's take RIT (https://github.com/ogrnv/random-intelligence-tests) sample tasks of different complexity and compare human results with results of a Monte Carlo (MC) algorithm (https://github.com/ogrnv/Creating-sample-means-for-measurement-standards-of-intelligence).  
+Then it will be seen that the human intelligence AGI is trying to recreate achieves better results when there are more degrees of freedom (d.f.) on the board.
 
 For example, these are mean values of moves per step in at least 130 tests:
 
