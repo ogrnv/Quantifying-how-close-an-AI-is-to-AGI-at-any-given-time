@@ -12,7 +12,7 @@ the board 8x8, 59 chips (less d.f.) of 7 types, 5 rounds x 12 steps in a round:
 MC 1587.414  
 HM 4.1397
 
-But if the average value 19.86 of moves per step of gemini-3.5-flash anticipating algorithm code (https://github.com/ogrnv/Anticipating-algorithm-for-solving-tasks-of-random-intelligence-tests) for 10 tests:
+But if the average value 16.835 of moves per step of gemini-3.5-flash anticipating algorithm code (https://github.com/ogrnv/Anticipating-algorithm-for-solving-tasks-of-random-intelligence-tests) for 130 tests:
 the board 8x8, 59 chips of 7 types, 5 rounds x 12 steps in a round is taken into account, then on the contrary, in these conditions the greatest difference between AI and human intelligence appears.
 
 So it's a way to quantify how close AI's thinking is to human thinking, i.e. how close is an AI to AGI at any given time. 
